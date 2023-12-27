@@ -1,0 +1,57 @@
+---
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Nitin Gouda
+    - name: Year of Birth
+      value: 2002
+    - name: Languages
+      value: English, Hindi, Marathi, Oriya
+- title: Education
+  type: time_table
+  contents:
+    - title: Bachelors in Computer Engineering
+      institution: University of Mumbai
+      year: 2020 - 2025
+- title: Experience
+  type: time_table
+  contents:
+    - title: Founder and Creative Director
+      institution: Phiway Studios
+      year: 2023
+      description:
+        - CopyWriting & Memes.
+        - Social Media & Digital Marketing.
+        - Develop websites & software.
+    - title: DevOps Intern
+      institution: PearlThoughts
+      year: 2023
+      description:
+        - During the training period the project that I was working on was to
+          deploy an Open Source application Snipe-IT onto Azure Kubernetes
+          Service using IaC tool (Terraform).
+    - title: DevOps and Infrastructure Engineer
+      institution: Fintricity
+      year: 2023
+      description:
+        - Designed, developed, and successfully deployed an Internal Developer
+          Platform utilizing Backstage to improve team collaboration and
+          productivity.
+        - Developed comprehensive and well-structured product and technical
+          documentation to support both our existing infrastructure and future
+          organizations adopting our solution.
+        - Led the migration of web apps to a Serverless architecture using
+          Massdriver, effectively maintaining infrastructure and reducing costs.
+        - Contributed to the creation of deployment pipelines using CodeDeploy
+          and GitHub Actions.
+    - title: DevOps Technical Writer
+      institution: Scaler
+      year: 2023 - 2023
+      description:
+        - Authored more than 15 SEO-optimized articles on various DevOps topics
+          like Kubernetes, Docker and Jenkins.
+- title: Other Interests
+  type: list
+  contents:
+    - Psychology, Philosophy, Writing, Technology, Military etc.
